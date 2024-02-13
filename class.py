@@ -1,5 +1,7 @@
 # Creación de una clase
 
+#Esto es una modificación que se ha hecho del fichero
+
 class Dog:
 
     species = "Canis lupus familiaris"
